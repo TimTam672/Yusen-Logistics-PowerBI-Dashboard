@@ -1,8 +1,7 @@
-
-| 📊 Yusen Logistics Dashboard (Public) | Yusen Logistics Dashboard (Internal) |
+| 📊 Yusen Logistics Dashboard (Public) | 📊 Yusen Logistics Dashboard (Internal) |
 | :--- | :--- |
-| **Focus**<br>Open for all other departments' operational use. | **Focus**<br>Supports Corporate Planning Department (CPD) for 3 recurring presentations (Monthly Management, Cross-Department, and Board of Directors). |
-| [![Watch Walkthrough](https://shields.io)](https://www.youtube.com/watch?v=LFtgS3w7Bk8) | [![Watch Walkthrough](https://shields.io)](https://www.youtube.com/watch?v=UMQoELNUipY) |
+| **Focus:** Open for all other departments' operational use.<br><br>🎥 **[Watch the Power BI Walkthrough](https://www.youtube.com/watch?v=LFtgS3w7Bk8)** | **Focus:** Supports Corporate Planning Department (CPD) for 3 recurring presentations (Monthly Management Meeting, Cross-Department Meeting, Board of Directors).<br><br>🎥 **[Watch the Power BI Walkthrough](https://www.youtube.com/watch?v=UMQoELNUipY)** |
+
 
 # Yusen-Logistics-PowerBI-Dashboard(Public)
 ![Homw_Page](https://github.com/TimTam672/Yusen-Logistics-PowerBI-Dashboard/blob/3fe0b4f5308493130bac8d02201cc07bcb64a68f/Home_Page.png)
