@@ -2,7 +2,7 @@
 | 📊 Dashboard Deployment | 🎯 Focus & Target Audience | 🎬 Walkthrough Video |
 | :--- | :--- | :--- |
 | **Yusen Logistics Dashboard (Public)** | Open for all other departments' operational use. | [Watch Video Walkthrough](https://youtube.com) |
-| **🔐 Yusen Logistics Dashboard (Internal)** | Supports Corporate Planning Department (CPD) for 3 recurring presentations (Monthly Management Meeting, Cross-Department Meeting, Board of Directors). | [Watch Video Walkthrough](https://youtube.com) |
+| **Yusen Logistics Dashboard (Internal)** | Supports Corporate Planning Department (CPD) for 3 recurring presentations (Monthly Management Meeting, Cross-Department Meeting, Board of Directors). | [Watch Video Walkthrough](https://youtube.com) |
 
 
 ### 🚀 Key Features & Engineering Highlights
