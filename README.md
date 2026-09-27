@@ -1,6 +1,9 @@
-| 📊 Yusen Logistics Dashboard (Public) | 📊 Yusen Logistics Dashboard (Internal) |
+
+| 📊 Yusen Logistics Dashboard (Public) | 🔐 Yusen Logistics Dashboard (Internal) |
 | :--- | :--- |
-| **Focus:** Open for all other departments' operational use.<br><br>🎥 **[Watch the Power BI Walkthrough](https://www.youtube.com/watch?v=LFtgS3w7Bk8)** | **Focus:** Supports Corporate Planning Department (CPD) for 3 recurring presentations (Monthly Management Meeting, Cross-Department Meeting, Board of Directors).<br><br>🎥 **[Watch the Power BI Walkthrough](https://www.youtube.com/watch?v=UMQoELNUipY)** |
+| **Target Audience & Focus** <br> > Open for all other departments' operational use. | **Target Audience & Focus** <br> > Supports Corporate Planning Department (CPD) for 3 recurring presentations (Monthly Management Meeting, Cross-Department Meeting, Board of Directors). |
+| 🎬 [Watch the Power BI Walkthrough](https://www.youtube.com/watch?v=LFtgS3w7Bk8) | 🎬 [Watch the Power BI Walkthrough](https://www.youtube.com/watch?v=UMQoELNUipY) |
+
 
 ### 🚀 Key Features & Engineering Highlights
 
